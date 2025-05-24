@@ -1,0 +1,6 @@
+/* Basic reset and app styling */
+body {
+  margin: 0;
+  font-family: 'Papyrus', sans-serif;
+  background-color: #fdf6e3;
+}
